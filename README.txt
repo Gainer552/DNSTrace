@@ -51,7 +51,6 @@ Security Tips
 - Review .hosts changes for suspicious internal mappings to public domains.
 
 Disclaimer
-----------
 This tool is provided "as-is" without warranty of any kind, express or implied. Usage of DNSTrace is at your own risk. It is intended for legitimate security monitoring, system integrity assurance, and educational purposes only. Unauthorized monitoring or tampering of systems you do not own or have explicit permission to test may be illegal in your jurisdiction.
 
 Author assumes no responsibility for misuse of this script.
